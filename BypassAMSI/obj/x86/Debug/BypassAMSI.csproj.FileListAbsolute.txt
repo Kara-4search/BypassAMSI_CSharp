@@ -1,0 +1,7 @@
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\bin\x86\Debug\BypassAMSI.exe.config
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\bin\x86\Debug\BypassAMSI.exe
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\bin\x86\Debug\BypassAMSI.pdb
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\obj\x86\Debug\BypassAMSI.csprojAssemblyReference.cache
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\obj\x86\Debug\BypassAMSI.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\obj\x86\Debug\BypassAMSI.exe
+C:\Project\Projects\Project_BypassAMSI\BypassAMSI\BypassAMSI\obj\x86\Debug\BypassAMSI.pdb

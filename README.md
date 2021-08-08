@@ -6,10 +6,10 @@ Blog link: none
 - Bypassing AMSI via "patch memory".
 - Tested on x64/x86.
 - Steps
-1. Locate amsi.dll's address.
-2. finding the "DllCanUnloadNow" base on the address
-3. Using egg hunt to find the function we need to patch.
-4. Patch it with the byte[] "patch64/patch86". 
+	1. Locate amsi.dll's address.
+	2. finding the "DllCanUnloadNow" base on the address
+	3. Using egg hunt to find the function we need to patch.
+	4. Patch it with the byte[] "patch64/patch86". 
 
 - You may need modify the code, make sure the code could by the EDR/AVs
 - I only tested on windows defender,works fine.
